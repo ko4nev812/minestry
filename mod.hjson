@@ -1,0 +1,8 @@
+name: "minestry"
+displayName: "Мод на майнкрафт."
+author: runksergey812
+description: "Bbfashbjhcbabfhsbafbhajbf"
+version: "1.0"
+minGameVersion: "122.1"
+dependencies: [ ]
+hidden: false
